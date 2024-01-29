@@ -1,66 +1,61 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><img src= "https://github.com/HotonMo/mobileStore/assets/116795716/fcdceab0-9755-4349-9450-6eb81d559f26"width="400" alt="Laravel Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
-## About Laravel
+# Larval MobileStore Web 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+This project about online store for mobile devices 
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## Front-End:
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- **Product Listing**: View a list of all available products.
+ <img width="600" alt="Screenshot" src="https://github.com/HotonMo/mobileStore/assets/116795716/f1f841e8-7719-4ebf-8650-6f2e8298d4bf">
 
-## Laravel Sponsors
+- **Filtering**: Narrow down the list by brand or category.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
 
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+<img width="600" src="https://github.com/HotonMo/mobileStore/assets/116795716/e3ef06a5-5e98-4bea-980a-107e9987869a">
 
-## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-## Code of Conduct
+  
+- **Product Details**: See detailed information about each product, including specifications and images.
+ <img width="600" alt="Screenshot 1445-07-17 at 11 11 56 AM" src="https://github.com/HotonMo/mobileStore/assets/116795716/2ebde3bb-2051-4771-9bf4-8eb69eba8f5c">
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+- **Cart Functionality**: Add product to your cart and adjust quantities.
+<img width="600" alt="Screenshot 1445-07-17 at 10 59 55 AM" src="https://github.com/HotonMo/mobileStore/assets/116795716/73606619-74cc-4d3b-adaf-7cdacfff620c">
 
-## Security Vulnerabilities
+- **Checkout: Complete** your purchase and receive an invoice.
+<img width="600" alt="Screenshot 1445-07-17 at 11 00 48 AM" src="https://github.com/HotonMo/mobileStore/assets/116795716/752f9695-8212-42f0-9c60-cc9365d52595">
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+- **Responsive Design**: Adapts for optimal viewing on different devices.
 
-## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+<img width="600" src="https://github.com/HotonMo/mobileStore/assets/116795716/a4962637-db1d-4d0f-af96-c3f0bed467e9">
+
+
+
+
+
+## Admin Panel:
+- **Brand Management**: Add, edit, and delete brands.
+<img width="600" alt="Screenshot 1445-07-17 at 11 07 35 AM" src="https://github.com/HotonMo/mobileStore/assets/116795716/a9baa801-5865-46e1-b9c0-0a03ac82e028">
+
+- **Product Management**: Add, edit, and delete products.
+<img width="600" alt="Screenshot 1445-07-17 at 11 07 49 AM" src="https://github.com/HotonMo/mobileStore/assets/116795716/f4bea48a-a295-4f62-a327-395431377c4d">
+
+
+## Tech Stack
+- Laravel Framework
+- MySQL Database
+- Bootstrap 
+- Composer 
+- Node
+
+
+
